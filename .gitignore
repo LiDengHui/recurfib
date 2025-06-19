@@ -1,0 +1,4 @@
+package-lock.json
+node_modules
+.idea
+fibonacci_data.json

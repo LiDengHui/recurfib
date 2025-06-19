@@ -1,0 +1,24 @@
+{
+  "name": "recurfib",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "使用动态规划和递归方式求解斐波那契数列",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiDengHui/recurfib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiDengHui/recurfib/issues"
+  },
+  "homepage": "https://github.com/LiDengHui/recurfib#readme",
+  "dependencies": {
+    "@types/benchmark": "^2.1.5",
+    "benchmark": "^2.1.4"
+  }
+}
